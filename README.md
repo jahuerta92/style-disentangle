@@ -19,6 +19,13 @@ This script trains a model that detangles author style and semantics using PyTor
 - Transformers
 - Other dependencies as specified in the script
 
+## Data
+The model expects a folder named `data` with another subfolder called `fanfiction` where the public data from the blogs and fanfiction dataset can be stored.
+
+- Blogs [https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm](u.cs.biu.ac.il/~koppel/BlogCorpus.htm)
+- Fanfiction [https://archive.org/details/fanfictiondotnet_repack](archive.org/details/fanfictiondotnet_repack)
+- PAN-CLEF (for validation) [https://pan.webis.de/data.html](pan.webis.de/data.html)
+
 ## Usage
 
 To run the script, you may use the following command:
