@@ -1,5 +1,5 @@
 # Pushing Language Models Beyond Semantics: Isolating Authorship from Content with Contrastive Learning
-This is the repository for the article Pushing Language Models Beyond Semantics: Isolating Authorship from Content with Contrastive Learning, available at arXiv [https://arxiv.org/abs/2411.18472](arxiv.org/abs/2411.18472)
+This is the repository for the article _Pushing Language Models Beyond Semantics: Isolating Authorship from Content with Contrastive Learning_, available at arXiv [https://arxiv.org/abs/2411.18472](arxiv.org/abs/2411.18472)
 
 **Purpose**: Authorship has entangled style and content inside. Authors frequently write about the same topics in the same style, so when different authors write about the exact same topic the easiest way out to distinguish them is by understanding the nuances of their style. Modern neural models for authorship can pick up these features using contrastive learning, however, some amount of content leakage is always present. Our aim is to reduce the inevitable impact and correlation between content and authorship. 
 
